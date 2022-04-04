@@ -1,0 +1,87 @@
+body {   
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    background: #FFFFFF;
+    color: #000000;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: block;
+    padding: 100px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 42px;
+    width: 80%;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.top {
+    margin-top: 20px;
+}
+
+.adv-telega {
+    margin-top: 30px;
+    display: flex;
+    color: #000000;
+    background: #d6d2d2;
+    align-items: center;
+    width: 80%;
+    justify-content: space-between;
+}
+
+.adv-telega p {
+    padding: 17px 20px;
+}
+
+.adv-telega a {
+    color: #000000;
+    font-weight: 700;
+    border-bottom: #EA215A 0.125em solid;
+    text-decoration: none;
+}
+
+img {
+    margin-top: 30px;
+    width: 80%;
+    background-size: cover;
+}
+
+.text-img {
+    background-color: #d6d2d2;
+    position: relative;
+    bottom: 20px;
+    width: 115px;
+}
+
+.list-info p {
+    width: 80%;
+    font-weight: 700;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.list-info a {
+    color: #000000;
+    border-bottom: #EA215A 0.125em solid;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EA215A;
+}
